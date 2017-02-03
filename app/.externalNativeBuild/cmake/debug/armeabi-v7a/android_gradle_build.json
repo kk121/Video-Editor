@@ -1,0 +1,16 @@
+
+{
+	"buildFiles" : [ "/Users/krishna/Documents/video-trimmer2/app/CMakeLists.txt" ],
+	"cleanCommands" : 
+	[
+		"/Users/krishna/Library/Android/sdk/android-sdk-macosx/cmake/3.6.3155560/bin/cmake --build /Users/krishna/Documents/video-trimmer2/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+	],
+	"toolchains" : 
+	{
+		"3387385955361430440" : 
+		{
+			"cCompilerExecutable" : "/Users/krishna/Downloads/android-ndk-r13b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/krishna/Downloads/android-ndk-r13b/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}

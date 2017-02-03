@@ -1,0 +1,2 @@
+/Users/krishna/Documents/video-trimmer2/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/edit_cache.dir
+/Users/krishna/Documents/video-trimmer2/app/.externalNativeBuild/cmake/debug/mips/CMakeFiles/rebuild_cache.dir

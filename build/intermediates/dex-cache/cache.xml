@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/krishna/Library/Android/sdk/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1_c31f2be19f727f2f5034869959164fa05fd1e1b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-22.2.1_720ec1f210f44a2ceec802c0a43d1c0769218f58.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-22.2.1_16614600e81a755c14412b6071f7f9a4c4b97e6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/krishna/Documents/video-trimmer2/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1_97c6efbc5b141415fea9f6c05955d5818cc68800.jar" />
+    </item>
+
+</items>
